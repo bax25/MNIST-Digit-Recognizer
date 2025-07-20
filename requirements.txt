@@ -1,6 +1,6 @@
 streamlit
 streamlit-drawable-canvas
-tensorflow 
-opencv-python
+tensorflow-cpu
+opencv-python-headless
 numpy
 matplotlib
