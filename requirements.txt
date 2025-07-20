@@ -4,5 +4,3 @@ tensorflow
 opencv-python
 numpy
 matplotlib
-libgl1-mesa-glx
-libglib2.0-0
